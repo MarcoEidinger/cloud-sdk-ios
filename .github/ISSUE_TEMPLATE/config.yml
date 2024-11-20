@@ -1,0 +1,7 @@
+---
+blank_issues_enabled: false
+contact_links:
+  -
+    about: "Report an issue for product BTP SDK for iOS (MOB-SDK-IOS) by creating a case in SAP for Me."
+    name: Report an issue
+    url: "https://me.sap.com/home"
